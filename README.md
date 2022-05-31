@@ -9,5 +9,3 @@ mouse to aim - sensitivity is high af as i create a small image that the mouse i
 probably wont change that ^^^<br />
 left click and hold to draw, let go to shoot, the longer it draws the more power it has, maximum of 1 second, minimum of 0.25 seconds<br />
 sounds are incredibly loud even on volume 1, feel free to change that or just ignore it and have it on 0<br />
-if you don't have python there is the launch.bat and program.exe that = the python code<br />
-feel free to use it for what you want but don't be a dick about it, ty x<br />
